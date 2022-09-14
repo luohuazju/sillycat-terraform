@@ -1,3 +1,4 @@
+terraform-k8s/.terraform.lock.hcl
 terraform-docker/project/
 terraform-docker/.terraform.lock.hcl
 # Local .terraform directories
